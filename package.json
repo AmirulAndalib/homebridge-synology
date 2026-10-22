@@ -31,7 +31,7 @@
   "dependencies": {
     "@types/ping": "^0.2.0",
     "@types/wol": "^1.0.0",
-    "axios": "^0.21.1",
+    "axios": "^0.34.0",
     "syno": "https://github.com/homeinstalator/syno",
     "wol": "^1.0.7"
   },
